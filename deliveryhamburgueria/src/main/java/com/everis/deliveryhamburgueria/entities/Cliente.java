@@ -25,7 +25,7 @@ public class Cliente {
     private String nascimento;
     private String cpf;
     private String telefone;
-    private Long senha;
+    private String senha;
     private String usuario;
 
 }

@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/cliente")
 @RequiredArgsConstructor
 public class ClienteController {
+
 }
 
     //CadastrarAluno - POST - /aluno
